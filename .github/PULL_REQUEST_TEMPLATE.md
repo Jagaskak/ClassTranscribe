@@ -4,7 +4,9 @@
 - Change 1
 - Change 2
 
-## Screenshots
-(Add screenshot or gif)
-
-Closes #xx
+## Type of update
+Choose which digit to increase in the tag. Edit commit message by adding #<major|minor|patch>
+For example:
+* ```#patch```
+* ```#major```
+* ```#minor``` 
